@@ -1,2 +1,2 @@
 git add // it is used to stage file
-git commit 
+git commit -m "messsage"  
